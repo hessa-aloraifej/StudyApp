@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudyApp">
         <activity
+            android:name=".ADDContent"
+            android:exported="true" />
+        <activity
             android:name=".dialogAlert"
             android:exported="true" />
         <activity
